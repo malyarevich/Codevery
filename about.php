@@ -6,6 +6,7 @@
 	<title>About Us</title>
 	
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link id="czr-favicon" rel="shortcut icon" href="favicon.png" type="image/png">
 	
 	<script type="text/javascript" src="assets/js/jquery.min.js"></script>
 
