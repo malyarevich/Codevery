@@ -1,0 +1,11 @@
+-createhero earthshaker enemy
+-createhero centaur enemy
+-createhero vengeful enemy
+-createhero riki
+
+
+-levelbots 25
+-givebots item_satanic
+-givebots item_assault
+-givebots item_heart
+-givebots item_ultimate_scepter
